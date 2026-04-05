@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Laisrun 👋
 
 3rd-year student at the **Institute of Technology of Cambodia**, passionate about data and always eager to learn something new.
 
