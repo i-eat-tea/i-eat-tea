@@ -39,19 +39,11 @@
 - [Machine leaning fundamental](https://github.com/i-eat-tea/MINI_PROJECT_AMS_B_GROUP3)
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-eat-tea&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-eat-tea&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📬 Get in Touch
 
 - 📧 Email: `lylaisrun11k2022@gmail.com`
 - 💼 LinkedIn: [Ly laisrun](https://www.linkedin.com/in/ly-laisrun-139275333/)
+- Telegram: [0885130520](https://t.me/LY_Laisrun)
 
 ---
 
